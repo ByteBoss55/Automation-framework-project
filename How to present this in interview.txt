@@ -1,0 +1,10 @@
+How to present this in interview
+
+Don’t just say “I downloaded project” — say this:
+
+Built BDD automation framework using Selenium + Cucumber
+Implemented Page Object Model
+Automated login scenarios (valid & invalid)
+Integrated WebDriverManager for driver handling
+Generated HTML reports
+Designed for Agile sprint testing & CI/CD integration
